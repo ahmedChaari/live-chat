@@ -1,2 +1,2 @@
-## it is web chat application
- 
+## it is application chat with laravel livewire 
+## real time chat
